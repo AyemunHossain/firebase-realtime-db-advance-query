@@ -1,0 +1,5 @@
+  "accessKeyId": "---------------",
+  "secretAccessKey": "-----------",
+
+  there two will be generated from AWS IAM service.
+  just created a new user give sqs permission.
